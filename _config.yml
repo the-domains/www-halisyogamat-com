@@ -1,6 +1,6 @@
 name: WWW.HALISYOGAMAT.COM
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.8542261766269803
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: awareness
     item: 3b46ba9b-6c1f-40a5-b2f1-0604f9d71393
     url: null
+typography_spectrum: 0.8207832197658718
